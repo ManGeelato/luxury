@@ -20,7 +20,7 @@ const Hero = () => {
           </div>
           <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
             Luxury
-            <span className="block text-amber-400">Accommodations</span>
+            <span className="block text-amber-300">Residences</span>
           </h1>
           <p className="text-xl md:text-2xl mb-8 font-light leading-relaxed">
             Experience unparalleled elegance and refined luxury at our two exquisite properties in Randburg
