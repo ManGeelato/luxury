@@ -32,7 +32,7 @@ const Header = () => {
             <h1 className={`text-xl font-bold transition-colors duration-300 ${
               isScrolled ? 'text-slate-800' : 'text-white'
             }`}>
-              Luxury Accommodations
+              Luxury Residence
             </h1>
           </div>
           
