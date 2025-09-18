@@ -73,6 +73,11 @@ const Footer = () => {
           <p className="text-slate-500 text-sm mt-2">
             © 2025 Luxury Accommodations. All rights reserved.
           </p>
+           <p className="text-slate-500 text-sm mt-2">
+            © 2025 Designed by
+            <a href="https://emmanuelkaome-mangeelato.vercel.app/" target="_blank"
+              >Emmanuel 'Gadaffi' Kaome</a>
+          </p>
         </div>
       </div>
     </footer>
